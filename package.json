@@ -1,0 +1,19 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "golive": "lt --port 3000"
+  },
+  "author": "Priyanshu negi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "localtunnel": "^2.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.3"
+  }
+}
